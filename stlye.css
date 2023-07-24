@@ -1,0 +1,34 @@
+/* fieldset{
+margin-right: 500px;
+
+} */
+
+fieldset{
+    width: 300px;
+}
+form{
+padding-left: 200px;
+
+}
+button{
+    margin-left: 150px;
+    border-radius: 8px;
+}
+input:focus{
+    background-color: crimson;
+}
+input{
+    color: white;
+}
+legend{
+    background-color: darkgreen;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+fieldset{
+    background-color: cadetblue;
+    /* background-image: url('im.jpg'); */
+}
+input:hover{
+    background-color: chocolate;
+}
